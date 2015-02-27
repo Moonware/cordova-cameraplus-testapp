@@ -8,6 +8,7 @@ After getting the sources, add the platform and build the project using:
     cordova platform add ios
     cordova build ios
 or
+
     cordova platform add android
     cordova build android
 
