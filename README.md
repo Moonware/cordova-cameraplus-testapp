@@ -13,7 +13,7 @@ or
 
 Please refer to https://github.com/moonware/cordova-cameraplus.git for additional info about the plugin itself.
 
-If needed, install *Cordova* and *Ionic* using the following:
+If needed, install **Cordova** and **Ionic** using the following:
 
     npm install -g cordova
     npm install -g ionic
