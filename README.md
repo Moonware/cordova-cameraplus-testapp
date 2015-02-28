@@ -1,6 +1,8 @@
 ## CameraPlus For Cordova - Test Application ##
 
-Simple Test application using Ionic (beta14) for **CameraPlus Plugin** for Cordova
+Simple Test application using Ionic (beta14) for **CameraPlus Plugin** for Cordova.
+
+![ScreenShot](https://s3.eu-central-1.amazonaws.com/moonware/CameraPlus.png)
 
 After getting the sources, add the platform and build the project using:
 
