@@ -11,7 +11,7 @@ or
     cordova platform add android
     cordova build android
 
-Please refer to https://github.com/moonware/cordova-cameraplus.git for additional info about the plugin itself.
+Please refer to https://github.com/moonware/cordova-cameraplus for additional info about the plugin itself or if you are interested in contributing to this plugin.
 
 If needed, install **Cordova** and **Ionic** using the following:
 
